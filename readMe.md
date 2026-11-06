@@ -1,8 +1,7 @@
 # Tutorial de python
 
-| Center Aligned | Alejando |
-| :-----------:  | :-------:|
-| Autor           | Alejandro Alvarado Gutiérrez |       
+| Autor | Alejando José Alvarado Gutiérrez|
+| :-----------:  | :-------:|     
 | Materia      |  Ciencia de Datos I  | 
 | Docente        |    Leandro Fabio Ariza | 
 
